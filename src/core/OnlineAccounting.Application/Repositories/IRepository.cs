@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
 using OnlineAccounting.Domain.Entities;
 
-namespace OnlineAccounting.Application.Repositories.CompanyRepositories;
+namespace OnlineAccounting.Application.Repositories;
 
 public interface IRepository<TContext, TEntity>
     where TEntity : Entity, new()

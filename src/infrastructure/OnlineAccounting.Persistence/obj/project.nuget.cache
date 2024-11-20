@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rl8eJVKOjw0=",
+  "dgSpecHash": "kPLo7H6CPug=",
   "success": true,
-  "projectFilePath": "C:\\Users\\elifa\\source\\repos\\OnlineAccounting\\OnlineAccounting\\src\\infrastructure\\OnlineAccounting.Persistence\\OnlineAccounting.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\elifa\\RiderProjects\\OnlineAccounting\\src\\infrastructure\\OnlineAccounting.Persistence\\OnlineAccounting.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elifa\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\elifa\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

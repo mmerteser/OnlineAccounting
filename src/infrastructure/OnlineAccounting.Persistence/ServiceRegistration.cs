@@ -3,10 +3,8 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using OnlineAccounting.Application.Extensions;
 using OnlineAccounting.Application.Repositories;
-using OnlineAccounting.Application.Repositories.CompanyRepositories;
 using OnlineAccounting.Persistence.Middlewares;
 using OnlineAccounting.Persistence.Repositories;
-using OnlineAccounting.Persistence.Repositories.CompanyRepositories;
 
 namespace OnlineAccounting.Persistence;
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elifa\\source\\repos\\OnlineAccounting\\OnlineAccounting\\src\\core\\OnlineAccounting.Domain\\OnlineAccounting.Domain.csproj": {}
+    "C:\\Users\\elifa\\RiderProjects\\OnlineAccounting\\src\\core\\OnlineAccounting.Domain\\OnlineAccounting.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elifa\\source\\repos\\OnlineAccounting\\OnlineAccounting\\src\\core\\OnlineAccounting.Domain\\OnlineAccounting.Domain.csproj": {
+    "C:\\Users\\elifa\\RiderProjects\\OnlineAccounting\\src\\core\\OnlineAccounting.Domain\\OnlineAccounting.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elifa\\source\\repos\\OnlineAccounting\\OnlineAccounting\\src\\core\\OnlineAccounting.Domain\\OnlineAccounting.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\elifa\\RiderProjects\\OnlineAccounting\\src\\core\\OnlineAccounting.Domain\\OnlineAccounting.Domain.csproj",
         "projectName": "OnlineAccounting.Domain",
-        "projectPath": "C:\\Users\\elifa\\source\\repos\\OnlineAccounting\\OnlineAccounting\\src\\core\\OnlineAccounting.Domain\\OnlineAccounting.Domain.csproj",
+        "projectPath": "C:\\Users\\elifa\\RiderProjects\\OnlineAccounting\\src\\core\\OnlineAccounting.Domain\\OnlineAccounting.Domain.csproj",
         "packagesPath": "C:\\Users\\elifa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elifa\\source\\repos\\OnlineAccounting\\OnlineAccounting\\src\\core\\OnlineAccounting.Domain\\obj\\",
+        "outputPath": "C:\\Users\\elifa\\RiderProjects\\OnlineAccounting\\src\\core\\OnlineAccounting.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [

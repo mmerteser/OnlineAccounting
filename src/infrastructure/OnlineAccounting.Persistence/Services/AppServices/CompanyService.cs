@@ -2,7 +2,6 @@ using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using OnlineAccounting.Application.DomainModels.AppDomains.CompanyDomainModels;
 using OnlineAccounting.Application.Repositories;
-using OnlineAccounting.Application.Repositories.CompanyRepositories;
 using OnlineAccounting.Application.Services.AppServices;
 using OnlineAccounting.Application.Services.Tenant;
 using OnlineAccounting.Domain.Entities.AppEntities;

@@ -1,10 +1,10 @@
 using System.Linq.Expressions;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
-using OnlineAccounting.Application.Repositories.CompanyRepositories;
+using OnlineAccounting.Application.Repositories;
 using OnlineAccounting.Domain.Entities;
 
-namespace OnlineAccounting.Persistence.Repositories.CompanyRepositories;
+namespace OnlineAccounting.Persistence.Repositories;
 
 public class Repository<TContext, TEntity>(TContext context) : IRepository<TContext, TEntity>
     where TEntity : Entity, new()

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elifa\\source\\repos\\OnlineAccounting\\OnlineAccounting\\src\\infrastructure\\OnlineAccounting.Infrastructure\\OnlineAccounting.Infrastructure.csproj": {}
+    "C:\\Users\\elifa\\RiderProjects\\OnlineAccounting\\src\\infrastructure\\OnlineAccounting.Infrastructure\\OnlineAccounting.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elifa\\source\\repos\\OnlineAccounting\\OnlineAccounting\\src\\infrastructure\\OnlineAccounting.Infrastructure\\OnlineAccounting.Infrastructure.csproj": {
+    "C:\\Users\\elifa\\RiderProjects\\OnlineAccounting\\src\\infrastructure\\OnlineAccounting.Infrastructure\\OnlineAccounting.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elifa\\source\\repos\\OnlineAccounting\\OnlineAccounting\\src\\infrastructure\\OnlineAccounting.Infrastructure\\OnlineAccounting.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\elifa\\RiderProjects\\OnlineAccounting\\src\\infrastructure\\OnlineAccounting.Infrastructure\\OnlineAccounting.Infrastructure.csproj",
         "projectName": "OnlineAccounting.Infrastructure",
-        "projectPath": "C:\\Users\\elifa\\source\\repos\\OnlineAccounting\\OnlineAccounting\\src\\infrastructure\\OnlineAccounting.Infrastructure\\OnlineAccounting.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\elifa\\RiderProjects\\OnlineAccounting\\src\\infrastructure\\OnlineAccounting.Infrastructure\\OnlineAccounting.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\elifa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elifa\\source\\repos\\OnlineAccounting\\OnlineAccounting\\src\\infrastructure\\OnlineAccounting.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\elifa\\RiderProjects\\OnlineAccounting\\src\\infrastructure\\OnlineAccounting.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
