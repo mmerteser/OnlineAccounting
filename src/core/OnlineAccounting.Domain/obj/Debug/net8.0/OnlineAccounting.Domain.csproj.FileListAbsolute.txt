@@ -1,0 +1,12 @@
+C:\Users\elifa\source\repos\OnlineAccounting\OnlineAccounting\src\core\OnlineAccounting.Domain\bin\Debug\net8.0\OnlineAccounting.Domain.deps.json
+C:\Users\elifa\source\repos\OnlineAccounting\OnlineAccounting\src\core\OnlineAccounting.Domain\bin\Debug\net8.0\OnlineAccounting.Domain.dll
+C:\Users\elifa\source\repos\OnlineAccounting\OnlineAccounting\src\core\OnlineAccounting.Domain\bin\Debug\net8.0\OnlineAccounting.Domain.pdb
+C:\Users\elifa\source\repos\OnlineAccounting\OnlineAccounting\src\core\OnlineAccounting.Domain\obj\Debug\net8.0\OnlineAccounting.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifa\source\repos\OnlineAccounting\OnlineAccounting\src\core\OnlineAccounting.Domain\obj\Debug\net8.0\OnlineAccounting.Domain.AssemblyInfoInputs.cache
+C:\Users\elifa\source\repos\OnlineAccounting\OnlineAccounting\src\core\OnlineAccounting.Domain\obj\Debug\net8.0\OnlineAccounting.Domain.AssemblyInfo.cs
+C:\Users\elifa\source\repos\OnlineAccounting\OnlineAccounting\src\core\OnlineAccounting.Domain\obj\Debug\net8.0\OnlineAccounting.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elifa\source\repos\OnlineAccounting\OnlineAccounting\src\core\OnlineAccounting.Domain\obj\Debug\net8.0\OnlineAccounting.Domain.dll
+C:\Users\elifa\source\repos\OnlineAccounting\OnlineAccounting\src\core\OnlineAccounting.Domain\obj\Debug\net8.0\refint\OnlineAccounting.Domain.dll
+C:\Users\elifa\source\repos\OnlineAccounting\OnlineAccounting\src\core\OnlineAccounting.Domain\obj\Debug\net8.0\OnlineAccounting.Domain.pdb
+C:\Users\elifa\source\repos\OnlineAccounting\OnlineAccounting\src\core\OnlineAccounting.Domain\obj\Debug\net8.0\ref\OnlineAccounting.Domain.dll
+C:\Users\elifa\source\repos\OnlineAccounting\OnlineAccounting\src\core\OnlineAccounting.Domain\obj\Debug\net8.0\OnlineAccounting.Domain.csproj.AssemblyReference.cache
