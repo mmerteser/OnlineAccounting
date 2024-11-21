@@ -35,9 +35,6 @@ namespace OnlineAccounting.Persistence.CompanyMigrations
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
-                    b.Property<long>("CompanyId")
-                        .HasColumnType("bigint");
-
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("datetime2");
 

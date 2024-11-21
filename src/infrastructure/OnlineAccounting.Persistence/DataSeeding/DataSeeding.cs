@@ -25,19 +25,28 @@ public static class DataSeeding
 
         var _userManager = services.GetRequiredService<UserManager<AppUser>>();
         var _userStore = services.GetRequiredService<IUserStore<AppUser>>();
+        var _roleManager = services.GetRequiredService<RoleManager<AppRole>>();
 
         if (context.Users.Any())
             return services;
 
-        var email = "admin@admin.com";
-        var username = email;
-        var password = "123Qwe";
+        string email = "admin@admin.com";
+        string username = email;
+        string password = "123Qwe";
+        string fullName = "Admin";
+
+        user.FullName = fullName;
 
         _userStore.SetUserNameAsync(user, username, CancellationToken.None).GetAwaiter().GetResult();
         ((IUserEmailStore<AppUser>)_userStore).SetEmailAsync(user, email, CancellationToken.None).GetAwaiter()
             .GetResult();
         _userManager.CreateAsync(user, password).GetAwaiter().GetResult();
-
+        
+        if(!_roleManager.RoleExistsAsync("Admin").GetAwaiter().GetResult())
+            _roleManager.CreateAsync(new AppRole(){Name = "Admin"}).GetAwaiter().GetResult();
+            
+        _userManager.AddToRoleAsync(user, "Admin").GetAwaiter().GetResult();
+        
         return services;
     }
 

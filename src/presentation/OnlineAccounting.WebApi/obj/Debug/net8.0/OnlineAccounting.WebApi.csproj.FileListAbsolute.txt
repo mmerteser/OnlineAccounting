@@ -377,3 +377,5 @@ C:\Users\elifa\RiderProjects\OnlineAccounting\src\presentation\OnlineAccounting.
 C:\Users\elifa\RiderProjects\OnlineAccounting\src\presentation\OnlineAccounting.WebApi\obj\Debug\net8.0\OnlineAccounting.WebApi.pdb
 C:\Users\elifa\RiderProjects\OnlineAccounting\src\presentation\OnlineAccounting.WebApi\obj\Debug\net8.0\OnlineAccounting.WebApi.genruntimeconfig.cache
 C:\Users\elifa\RiderProjects\OnlineAccounting\src\presentation\OnlineAccounting.WebApi\obj\Debug\net8.0\ref\OnlineAccounting.WebApi.dll
+C:\Users\elifa\RiderProjects\OnlineAccounting\src\presentation\OnlineAccounting.WebApi\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\elifa\RiderProjects\OnlineAccounting\src\presentation\OnlineAccounting.WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

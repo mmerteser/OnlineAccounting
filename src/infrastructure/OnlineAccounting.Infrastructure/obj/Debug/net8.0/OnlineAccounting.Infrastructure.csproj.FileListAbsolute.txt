@@ -9,3 +9,15 @@ C:\Users\elifa\source\repos\OnlineAccounting\OnlineAccounting\src\infrastructure
 C:\Users\elifa\source\repos\OnlineAccounting\OnlineAccounting\src\infrastructure\OnlineAccounting.Infrastructure\obj\Debug\net8.0\refint\OnlineAccounting.Infrastructure.dll
 C:\Users\elifa\source\repos\OnlineAccounting\OnlineAccounting\src\infrastructure\OnlineAccounting.Infrastructure\obj\Debug\net8.0\OnlineAccounting.Infrastructure.pdb
 C:\Users\elifa\source\repos\OnlineAccounting\OnlineAccounting\src\infrastructure\OnlineAccounting.Infrastructure\obj\Debug\net8.0\ref\OnlineAccounting.Infrastructure.dll
+C:\Users\elifa\RiderProjects\OnlineAccounting\src\infrastructure\OnlineAccounting.Infrastructure\bin\Debug\net8.0\OnlineAccounting.Infrastructure.deps.json
+C:\Users\elifa\RiderProjects\OnlineAccounting\src\infrastructure\OnlineAccounting.Infrastructure\bin\Debug\net8.0\OnlineAccounting.Infrastructure.dll
+C:\Users\elifa\RiderProjects\OnlineAccounting\src\infrastructure\OnlineAccounting.Infrastructure\bin\Debug\net8.0\OnlineAccounting.Infrastructure.pdb
+C:\Users\elifa\RiderProjects\OnlineAccounting\src\infrastructure\OnlineAccounting.Infrastructure\obj\Debug\net8.0\OnlineAccounting.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifa\RiderProjects\OnlineAccounting\src\infrastructure\OnlineAccounting.Infrastructure\obj\Debug\net8.0\OnlineAccounting.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\elifa\RiderProjects\OnlineAccounting\src\infrastructure\OnlineAccounting.Infrastructure\obj\Debug\net8.0\OnlineAccounting.Infrastructure.AssemblyInfo.cs
+C:\Users\elifa\RiderProjects\OnlineAccounting\src\infrastructure\OnlineAccounting.Infrastructure\obj\Debug\net8.0\OnlineAccounting.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\elifa\RiderProjects\OnlineAccounting\src\infrastructure\OnlineAccounting.Infrastructure\obj\Debug\net8.0\OnlineAccounting.Infrastructure.sourcelink.json
+C:\Users\elifa\RiderProjects\OnlineAccounting\src\infrastructure\OnlineAccounting.Infrastructure\obj\Debug\net8.0\OnlineAccounting.Infrastructure.dll
+C:\Users\elifa\RiderProjects\OnlineAccounting\src\infrastructure\OnlineAccounting.Infrastructure\obj\Debug\net8.0\refint\OnlineAccounting.Infrastructure.dll
+C:\Users\elifa\RiderProjects\OnlineAccounting\src\infrastructure\OnlineAccounting.Infrastructure\obj\Debug\net8.0\OnlineAccounting.Infrastructure.pdb
+C:\Users\elifa\RiderProjects\OnlineAccounting\src\infrastructure\OnlineAccounting.Infrastructure\obj\Debug\net8.0\ref\OnlineAccounting.Infrastructure.dll

@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "L6XpA2B4+jg=",
+  "dgSpecHash": "6TwT3TlVTyc=",
   "success": true,
   "projectFilePath": "C:\\Users\\elifa\\RiderProjects\\OnlineAccounting\\src\\core\\OnlineAccounting.Application\\OnlineAccounting.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elifa\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\elifa\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\elifa\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
     "C:\\Users\\elifa\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.11\\microsoft.aspnetcore.cryptography.internal.8.0.11.nupkg.sha512",
     "C:\\Users\\elifa\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.11\\microsoft.aspnetcore.cryptography.keyderivation.8.0.11.nupkg.sha512",
     "C:\\Users\\elifa\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
